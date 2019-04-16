@@ -1,3 +1,3 @@
-#git_practice
+
 # hw3_Hadoop
-# hw3_Hadoop
+# ratings over 6 and age less than 31
